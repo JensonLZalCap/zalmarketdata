@@ -1,0 +1,122 @@
+[
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen Inc"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc"
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express Co"
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing Co/The"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce Inc"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco Systems Inc"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corp"
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Co/The"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs Group Inc/The"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot Inc/The"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell International Inc"
+  },
+  {
+    "ticker": "IBM",
+    "name": "International Business Machine"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Co/The"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's Corp"
+  },
+  {
+    "ticker": "MMM",
+    "name": "3M Co"
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Co Inc"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp"
+  },
+  {
+    "ticker": "NKE",
+    "name": "NIKE Inc"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp"
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble Co/The"
+  },
+  {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams Co/The"
+  },
+  {
+    "ticker": "TRV",
+    "name": "Travelers Cos Inc/The"
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Inc"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart Inc"
+  }
+]

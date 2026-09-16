@@ -1,0 +1,122 @@
+[
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices Inc"
+  },
+  {
+    "ticker": "ALAB",
+    "name": "Astera Labs Inc"
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials Inc"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc"
+  },
+  {
+    "ticker": "ARM",
+    "name": "ARM Holdings PLC"
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding NV"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc"
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent Corp"
+  },
+  {
+    "ticker": "CRDO",
+    "name": "Credo Technology Group Holding"
+  },
+  {
+    "ticker": "ENTG",
+    "name": "Entegris Inc"
+  },
+  {
+    "ticker": "GFS",
+    "name": "GLOBALFOUNDRIES Inc"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corp"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corp"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research Corp"
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology Inc"
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems Inc"
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology Inc"
+  },
+  {
+    "ticker": "MTSI",
+    "name": "MACOM Technology Solutions Hol"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology Inc"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp"
+  },
+  {
+    "ticker": "NVMI",
+    "name": "Nova Ltd"
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors NV"
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor Corp"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Inc"
+  },
+  {
+    "ticker": "QRVO",
+    "name": "Qorvo Inc"
+  },
+  {
+    "ticker": "RMBS",
+    "name": "Rambus Inc"
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions Inc"
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne Inc"
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufactu"
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments Inc"
+  }
+]
