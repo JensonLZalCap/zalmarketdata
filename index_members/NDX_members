@@ -1,0 +1,406 @@
+[
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb Inc"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc"
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices Inc"
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing Inc"
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk Inc"
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power Co Inc"
+  },
+  {
+    "ticker": "ALAB",
+    "name": "Astera Labs Inc"
+  },
+  {
+    "ticker": "ALNY",
+    "name": "Alnylam Pharmaceuticals Inc"
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials Inc"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen Inc"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc"
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin Corp"
+  },
+  {
+    "ticker": "ARM",
+    "name": "ARM Holdings PLC"
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding NV"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc"
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise Inc"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc"
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes Co"
+  },
+  {
+    "ticker": "CCEP",
+    "name": "Coca-Cola Europacific Partners"
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems Inc"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy Corp"
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast Corp"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corp"
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart Inc"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "Crowdstrike Holdings Inc"
+  },
+  {
+    "ticker": "CRWV",
+    "name": "CoreWeave Inc"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco Systems Inc"
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corp"
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas Corp"
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash Inc"
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog Inc"
+  },
+  {
+    "ticker": "DXCM",
+    "name": "Dexcom Inc"
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon Corp"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy Inc"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Co"
+  },
+  {
+    "ticker": "FER",
+    "name": "Ferrovial NV"
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet Inc"
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare Technologies Inc"
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences Inc"
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell International Inc"
+  },
+  {
+    "ticker": "HONA",
+    "name": "Honeywell Aerospace Inc"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories Inc"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corp"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit Inc"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical Inc"
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper Inc"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corp"
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde PLC"
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum Holdings Inc"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research Corp"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International Inc/MD"
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology Inc"
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International Inc"
+  },
+  {
+    "ticker": "MELI",
+    "name": "MercadoLibre Inc"
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms Inc"
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage Corp"
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems Inc"
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology Inc"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp"
+  },
+  {
+    "ticker": "MSTR",
+    "name": "Strategy Inc"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology Inc"
+  },
+  {
+    "ticker": "NBIS",
+    "name": "Nebius Group NV"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix Inc"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp"
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors NV"
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion Freight Line Inc"
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive Inc"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks Inc"
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex Inc"
+  },
+  {
+    "ticker": "PCAR",
+    "name": "PACCAR Inc"
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo Inc"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal Holdings Inc"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Inc"
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals Inc"
+  },
+  {
+    "ticker": "RKLB",
+    "name": "Rocket Lab Corp"
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies Inc"
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores Inc"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks Corp"
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify Inc"
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk Corp"
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys Inc"
+  },
+  {
+    "ticker": "SPCX",
+    "name": "Space Exploration Technologies"
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings PL"
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne Inc"
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US Inc"
+  },
+  {
+    "ticker": "TRI",
+    "name": "Thomson Reuters Corp"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla Inc"
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software"
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments Inc"
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals Inc"
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros Discovery Inc"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday Inc"
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital Corp"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart Inc"
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy Inc"
+  }
+]
